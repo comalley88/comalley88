@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Conor** and I am a frontend web engineer living in Marseille 🇫🇷 😎
+My name is **Conor**, I am a frontend web engineer originally from the UK and now living in Marseille 🇫🇷 😎
 
 Interests
   ---
